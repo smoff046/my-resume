@@ -4,7 +4,9 @@ title: My Resume
 
 # Franklin Tuitoek
 
-![photo of young male around 20 years old on a dark blue suit](https://smoff046.github.io/my-resume/me.png)
+**Aspiring Cybersecurity Professional | Web Development**
+
+📞 +254 112 550 846 | ✉️ fkips046@gmail.com
 
 ## Summary
 
@@ -86,10 +88,5 @@ Founder & Developer
 - Completed multiple hands-on cybersecurity labs and challenges
 
 ---
-
-## Others
-
-- [My Hobbies](https://smoff046.github.io/my-resume/my hobbies.html)
-- [Contact Me](https://smoff046.github.io/my-resume/contact.html)
 
 © 2026 Franklin Tuitoek. All rights reserved.
